@@ -51,6 +51,8 @@ Lanzamos el comando docker-compose up -d como administradores y esperamos hasta 
 
 Finalmente, al ingresar a nuestro localhost en el puerto 8080, especificando la ruta de nuestro proyecto, se debería de poder apreciar el proyecto desplegado.
 
+<img src="https://i.gyazo.com/70b24c9e0579590045433452b08f3fd7.png">
+
 ## Conclusiones
 
 Docker es una tecnología de virtualización ligera que se basa en la utilización de contenedores y el despliegue de aplicaciones capsuladas en los mismos.
