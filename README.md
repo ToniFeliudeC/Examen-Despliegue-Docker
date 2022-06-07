@@ -8,7 +8,7 @@ Todas estas tecnologías se almacenan en contenederos de docker.
 
 ## Comienzo del despliegue
 
-1. Partiendo desde una máquina Ubunto, crearemos un directorio cuyo contenido será nuestro proyecto.
+1. Partiendo desde una máquina Ubuntu 22.04, crearemos un directorio cuyo contenido será nuestro proyecto.
 2. Dentro de dicho directorio, creamos el directio "mysql-dump" el cual contendrá el script de creación de nuestra base de datos.
 3. De nuevo dentro del mismo directorio, creamos una nueva carpeta en la que introduciremos el .war de nuestro proyecto.
 
