@@ -4,7 +4,7 @@
 
 Nuestra aplicación dispone de una base de datos MYSql, de la cual un código java recoge e inserta datos para que nuestro front-end pueda proporcionar un servicio.
 
-Todas estas tecnologías se almacenan en contenederos de docker.
+Todas estas tecnologías se almacenan en contenedores de docker.
 
 ## Comienzo del despliegue
 
